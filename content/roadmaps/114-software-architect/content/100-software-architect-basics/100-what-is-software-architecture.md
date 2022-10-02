@@ -1,6 +1,8 @@
 # What is Software Architecture?
 
-Describes how an application is built including its components, how they interact with each other, environment in which they operate and so on.
+Describes how an application is built including its components,
+How they interact with each other, 
+Environment in which they operate and so on.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/'>What is Software Architecture in Software Engineering?</BadgeLink>
